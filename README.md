@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>- 🎓 I’m a **3rd-year B.Tech CSE student** specializing in **Artificial Intelligence & Machine Learning**<br>- 🧠 Actively building my **core programming and problem-solving skills**<br>- 🤝 I’m open to **learning together and collaborating on beginner-friendly projects**<br><br>
+## 🚀 About Me<br><br>- 🎓 I’m a **B.Tech CSE student** specializing in **Artificial Intelligence & Machine Learning**<br>- 🧠 Actively building my **core programming and problem-solving skills**<br>- 🤝 I’m open to **learning together and collaborating on beginner-friendly projects**<br><br>
 
 
 ## 🌐 Socials:
